@@ -24,6 +24,8 @@ This step involves preprocessing the data to make it suitable for analysis. It i
  Here, you'll explore the data to understand the relationships between different variables. You might look at the correlation between movie ratings and other factors like genre, director, budget, etc. You might also want to consider the year of release, the actors involved, and other relevant factors.
 
 ## IMDB Data Analysis Dashboard
+
+https://drive.google.com/file/d/1CyFbzRs-a9XZ5Ds8zkb2ePNku5pUY719/view?usp=sharing
 https://docs.google.com/presentation/d/1DklOm2qiqtYfq6b0HzkVjxiSNgDNaoOI/edit?usp=sharing&ouid=110042194959097886731&rtpof=true&sd=true
 
 ## EDA INSIGHTS
