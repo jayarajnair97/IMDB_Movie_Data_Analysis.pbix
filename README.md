@@ -27,8 +27,6 @@ This step involves preprocessing the data to make it suitable for analysis. It i
 
 https://app.powerbi.com/links/_x5JUe5tO1?ctid=33ddb4d3-cc0c-4c6b-a582-d318efd3a27a&pbi_source=linkShare&bookmarkGuid=65693126-f854-48ab-89f0-7474ccc43772
 
-https://drive.google.com/file/d/1CyFbzRs-a9XZ5Ds8zkb2ePNku5pUY719/view?usp=sharing
-
 https://docs.google.com/presentation/d/1DklOm2qiqtYfq6b0HzkVjxiSNgDNaoOI/edit?usp=sharing&ouid=110042194959097886731&rtpof=true&sd=true
 
 ## EDA INSIGHTS
